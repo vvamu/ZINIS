@@ -1,0 +1,15 @@
+E:\3c\ОЗИ\ZIINIS_LoopCode+\bin\Debug\net6.0\ZIINIS_LoopCode+.exe
+E:\3c\ОЗИ\ZIINIS_LoopCode+\bin\Debug\net6.0\ZIINIS_LoopCode+.deps.json
+E:\3c\ОЗИ\ZIINIS_LoopCode+\bin\Debug\net6.0\ZIINIS_LoopCode+.runtimeconfig.json
+E:\3c\ОЗИ\ZIINIS_LoopCode+\bin\Debug\net6.0\ZIINIS_LoopCode+.dll
+E:\3c\ОЗИ\ZIINIS_LoopCode+\bin\Debug\net6.0\ZIINIS_LoopCode+.pdb
+E:\3c\ОЗИ\ZIINIS_LoopCode+\obj\Debug\net6.0\ZIINIS_LoopCode+.csproj.AssemblyReference.cache
+E:\3c\ОЗИ\ZIINIS_LoopCode+\obj\Debug\net6.0\ZIINIS_LoopCode+.GeneratedMSBuildEditorConfig.editorconfig
+E:\3c\ОЗИ\ZIINIS_LoopCode+\obj\Debug\net6.0\ZIINIS_LoopCode+.AssemblyInfoInputs.cache
+E:\3c\ОЗИ\ZIINIS_LoopCode+\obj\Debug\net6.0\ZIINIS_LoopCode+.AssemblyInfo.cs
+E:\3c\ОЗИ\ZIINIS_LoopCode+\obj\Debug\net6.0\ZIINIS_LoopCode+.csproj.CoreCompileInputs.cache
+E:\3c\ОЗИ\ZIINIS_LoopCode+\obj\Debug\net6.0\ZIINIS_LoopCode+.dll
+E:\3c\ОЗИ\ZIINIS_LoopCode+\obj\Debug\net6.0\refint\ZIINIS_LoopCode+.dll
+E:\3c\ОЗИ\ZIINIS_LoopCode+\obj\Debug\net6.0\ZIINIS_LoopCode+.pdb
+E:\3c\ОЗИ\ZIINIS_LoopCode+\obj\Debug\net6.0\ZIINIS_LoopCode+.genruntimeconfig.cache
+E:\3c\ОЗИ\ZIINIS_LoopCode+\obj\Debug\net6.0\ref\ZIINIS_LoopCode+.dll

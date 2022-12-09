@@ -1,0 +1,15 @@
+E:\3c\ОЗИ\Lab8 Archieve\bin\Debug\net6.0\Lab8 Archieve.exe
+E:\3c\ОЗИ\Lab8 Archieve\bin\Debug\net6.0\Lab8 Archieve.deps.json
+E:\3c\ОЗИ\Lab8 Archieve\bin\Debug\net6.0\Lab8 Archieve.runtimeconfig.json
+E:\3c\ОЗИ\Lab8 Archieve\bin\Debug\net6.0\Lab8 Archieve.dll
+E:\3c\ОЗИ\Lab8 Archieve\bin\Debug\net6.0\Lab8 Archieve.pdb
+E:\3c\ОЗИ\Lab8 Archieve\obj\Debug\net6.0\Lab8 Archieve.csproj.AssemblyReference.cache
+E:\3c\ОЗИ\Lab8 Archieve\obj\Debug\net6.0\Lab8 Archieve.GeneratedMSBuildEditorConfig.editorconfig
+E:\3c\ОЗИ\Lab8 Archieve\obj\Debug\net6.0\Lab8 Archieve.AssemblyInfoInputs.cache
+E:\3c\ОЗИ\Lab8 Archieve\obj\Debug\net6.0\Lab8 Archieve.AssemblyInfo.cs
+E:\3c\ОЗИ\Lab8 Archieve\obj\Debug\net6.0\Lab8 Archieve.csproj.CoreCompileInputs.cache
+E:\3c\ОЗИ\Lab8 Archieve\obj\Debug\net6.0\Lab8 Archieve.dll
+E:\3c\ОЗИ\Lab8 Archieve\obj\Debug\net6.0\refint\Lab8 Archieve.dll
+E:\3c\ОЗИ\Lab8 Archieve\obj\Debug\net6.0\Lab8 Archieve.pdb
+E:\3c\ОЗИ\Lab8 Archieve\obj\Debug\net6.0\Lab8 Archieve.genruntimeconfig.cache
+E:\3c\ОЗИ\Lab8 Archieve\obj\Debug\net6.0\ref\Lab8 Archieve.dll
