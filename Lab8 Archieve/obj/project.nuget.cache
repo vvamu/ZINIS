@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1yDEAV0qz8lGqNuvoh6jWU8ChfPhGQwe4Vk80IKRbktGYhivpp+6rzWUnX0u7mhY0EivayPyAm8j2qOR5CLrHQ==",
+  "dgSpecHash": "QgoHcsq9KYB+uTLd8Q4FdmZxr32uMmM1tp64HLgw1UJ4KjHrfKuuhTBGvIsjOtZhpUEiAukzAV+NUwEhVlRr5w==",
   "success": true,
   "projectFilePath": "E:\\3c\\ОЗИ\\Lab8 Archieve\\Lab8 Archieve.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\who\\.nuget\\packages\\nlog\\5.1.0\\nlog.5.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

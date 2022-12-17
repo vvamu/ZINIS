@@ -1,5 +1,10 @@
 ﻿using System;
 
+
+
+
+
+
 namespace ЛР__5
 {
     class Program

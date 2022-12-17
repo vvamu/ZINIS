@@ -1,0 +1,30 @@
+C:\Alex_Besman\University\3_year\1_semester\ЗИиНИС\LWs\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.exe.config
+C:\Alex_Besman\University\3_year\1_semester\ЗИиНИС\LWs\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.exe
+C:\Alex_Besman\University\3_year\1_semester\ЗИиНИС\LWs\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.pdb
+C:\Alex_Besman\University\3_year\1_semester\ЗИиНИС\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.csprojAssemblyReference.cache
+C:\Alex_Besman\University\3_year\1_semester\ЗИиНИС\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.csproj.CoreCompileInputs.cache
+C:\Alex_Besman\University\3_year\1_semester\ЗИиНИС\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.exe
+C:\Alex_Besman\University\3_year\1_semester\ЗИиНИС\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.pdb
+D:\Лабораторные\ОЗИ\ЗИиНИС\LWs\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.exe.config
+D:\Лабораторные\ОЗИ\ЗИиНИС\LWs\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.exe
+D:\Лабораторные\ОЗИ\ЗИиНИС\LWs\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.pdb
+D:\Лабораторные\ОЗИ\ЗИиНИС\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.csprojAssemblyReference.cache
+D:\Лабораторные\ОЗИ\ЗИиНИС\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.csproj.CoreCompileInputs.cache
+D:\Лабораторные\ОЗИ\ЗИиНИС\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.exe
+D:\Лабораторные\ОЗИ\ЗИиНИС\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.pdb
+E:\study\ОЗИ\LWs\LWs\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.exe.config
+E:\study\ОЗИ\LWs\LWs\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.exe
+E:\study\ОЗИ\LWs\LWs\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.pdb
+E:\study\ОЗИ\LWs\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.csproj.AssemblyReference.cache
+E:\study\ОЗИ\LWs\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.csproj.SuggestedBindingRedirects.cache
+E:\study\ОЗИ\LWs\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.csproj.CoreCompileInputs.cache
+E:\study\ОЗИ\LWs\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.exe
+E:\study\ОЗИ\LWs\LWs\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.pdb
+E:\3c\ОЗИ\Лабораторная работа №10\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.exe.config
+E:\3c\ОЗИ\Лабораторная работа №10\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.exe
+E:\3c\ОЗИ\Лабораторная работа №10\Lempel-Ziv_method\bin\Debug\Lempel-Ziv_method.pdb
+E:\3c\ОЗИ\Лабораторная работа №10\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.csproj.AssemblyReference.cache
+E:\3c\ОЗИ\Лабораторная работа №10\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.csproj.SuggestedBindingRedirects.cache
+E:\3c\ОЗИ\Лабораторная работа №10\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.csproj.CoreCompileInputs.cache
+E:\3c\ОЗИ\Лабораторная работа №10\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.exe
+E:\3c\ОЗИ\Лабораторная работа №10\Lempel-Ziv_method\obj\Debug\Lempel-Ziv_method.pdb

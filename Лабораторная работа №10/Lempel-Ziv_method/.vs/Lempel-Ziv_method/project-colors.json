@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26dbde56-865e-4dc7-8d52-9635cc70a1ba": {
+      "ProjectGuid": "26dbde56-865e-4dc7-8d52-9635cc70a1ba",
+      "DisplayName": "Lempel-Ziv_method",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
